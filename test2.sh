@@ -1,2 +1,3 @@
 #!/bin/sh
-echo "Thsis is a test"
+# corrected the typo
+echo "This is a test"
