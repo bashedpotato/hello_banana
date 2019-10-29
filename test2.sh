@@ -1,3 +1,4 @@
 #!/bin/sh
 # corrected the typo
-echo "This is a test"
+#commented out this: echo "This is a test"
+echo "This is the addition in Banana Branch"
